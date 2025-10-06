@@ -1,4 +1,4 @@
-# Exerccios-em-Notebooks---Unidade-I
+# Exercicios-em-Notebooks---Unidade-I
 Nesta atividade, eu irei resolver os exercícios práticos presentes nos seguintes notebooks: 
 02 - K-Means.ipynb
 03 - Hierarchical.ipynb 
